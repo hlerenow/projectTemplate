@@ -6,9 +6,17 @@
 
 ```
 ├── README.md
-└── docs
-    ├── api // 存放api文档文件
-    ├── dev // 存放开发文件，比如软件开发文档, 记录开发相关信息
-    └── solutionRecord // 记录开发中遇见的问题的解决方案
+├── backend
+│   └── README.md
+├── docs
+│   ├── api ／/ 存放api文档文件文件夹
+│   │   └── README.md
+│   ├── dev ／/ 存放开发文件，比如软件开发文档, 记录开发相关信息文件夹
+│   │   └── README.md
+│   └── solutionRecord // 记录开发中遇见的问题的解决方案文件夹
+│       └── README.md
+└── fontend
+    └── README.md
+
 ```
 
